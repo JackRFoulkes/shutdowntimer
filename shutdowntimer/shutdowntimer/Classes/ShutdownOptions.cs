@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace shutdowntimer.Classes
 {
-    public class ShutdownOptions
+    public static class ShutdownOptions
     {
         public enum Options
         {

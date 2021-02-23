@@ -83,9 +83,49 @@ namespace shutdowntimer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Shutdown_Timer_Logo {
+            get {
+                object obj = ResourceManager.GetObject("Shutdown Timer Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Shutdown_Timer_Logo_128_x_128 {
+            get {
+                object obj = ResourceManager.GetObject("Shutdown_Timer_Logo_128_x_128", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Shutdown_Timer_Logo_128_x_128_Opacity_30 {
             get {
                 object obj = ResourceManager.GetObject("Shutdown Timer Logo 128 x 128 Opacity 30", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Shutdown_Timer_Logo_Animated_60_x_60 {
+            get {
+                object obj = ResourceManager.GetObject("Shutdown_Timer_Logo_Animated_60_x_60", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Shutdown_Timer_Logo_Stop_60_x_60 {
+            get {
+                object obj = ResourceManager.GetObject("Shutdown_Timer_Logo_Stop_60_x_60", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
