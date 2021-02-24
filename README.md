@@ -14,8 +14,8 @@ Three schedule modes:
 Three actions:
  - Shutdown
  - Restart
- - Sleep
-
+ - Log Off
+ 
 ![Shutdown Timer Action](https://drive.google.com/uc?export=view&id=10Lry7fuVRmlduS4hMAugx1O-tlU1vjI-)
 
 ## Requirements
