@@ -1,6 +1,6 @@
 # JRFApps Shutdown Timer
 Simple Windows .NET Shutdown timer.
-![JRFApps Website](https://www.jrfapps.com)
+[JRFApps Website](https://www.jrfapps.com)
 
 ![Shutdown Timer Screenshot](https://drive.google.com/uc?export=view&id=1q1X8_pCHdoYADWA2QXn6BFq5gW3lNzjy)
 ## Features
